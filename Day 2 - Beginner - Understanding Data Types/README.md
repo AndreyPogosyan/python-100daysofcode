@@ -2,6 +2,6 @@
 
 ## To calculate the total tip, inpute:
 
-## The price of the total bill
-## The tip you wish you give
-## The number of people splitting the bill
+### - The price of the total bill
+### - The tip you wish you give
+### - The number of people splitting the bill
